@@ -2,7 +2,7 @@
 [![MasterHead](https://www.elegantthemes.com/blog/wp-content/uploads/2018/04/Best-Code-and-Text-Editors.png...)](https://www.elegantthemes.com/blog/wp-content/uploads/2018/04/Best-Code-and-Text-Editors.png)
 <h1 align="center">Hi 👋, I'm Deepak Chourasiya</h1>
 <h3 align="center">A passionate fullStack developer from India</h3>
-<img align="right" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY5g-s7BVLfq4FLrHjo8e5AL1ABnn7wwK0PA&usqp=CAU" alt="code" >
+<!-- <img align="right" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY5g-s7BVLfq4FLrHjo8e5AL1ABnn7wwK0PA&usqp=CAU" alt="code" > -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakchourasiya-aj" alt="deepakchourasiya-aj" /></a> </p>
 
