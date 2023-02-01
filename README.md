@@ -1,4 +1,4 @@
-- 👨‍💻 All of my projects are available at [My Portfolio](https://deepakChourasiya-aj.github.io/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://deepakchourasiya-aj.github.io/)
 
 [![MasterHead](https://www.elegantthemes.com/blog/wp-content/uploads/2018/04/Best-Code-and-Text-Editors.png...)](https://www.elegantthemes.com/blog/wp-content/uploads/2018/04/Best-Code-and-Text-Editors.png)
 <h1 align="center">Hi 👋, I'm Deepak Chourasiya</h1>
