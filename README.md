@@ -1,3 +1,5 @@
+ ![Snake animation](https://github.com/deepakChourasiya-aj/deepakChourasiya-aj/blob/output/github-contribution-grid-snake.svg)
+
 - 👨‍💻 All of my projects are available at [My Portfolio](https://deepakchourasiya-aj.github.io/)
 
 [![MasterHead](https://www.elegantthemes.com/blog/wp-content/uploads/2018/04/Best-Code-and-Text-Editors.png...)](https://www.elegantthemes.com/blog/wp-content/uploads/2018/04/Best-Code-and-Text-Editors.png)
