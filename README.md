@@ -12,7 +12,6 @@
 - 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **Node.js,express.js,mongo.db**
-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
