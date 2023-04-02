@@ -6,14 +6,14 @@
 <h3 align="center">A passionate fullStack developer from India</h3>
 <!-- <img align="right" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY5g-s7BVLfq4FLrHjo8e5AL1ABnn7wwK0PA&usqp=CAU" alt="code" > -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakchourasiya-aj" alt="deepakchourasiya-aj" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakchourasiya-aj" alt="deepakchourasiya-aj" /></a> </p>
 
 - 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **Node.js,express.js,mongo.db**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/deepak-chourasiya-3a4a9220a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak chourasiya" height="30" width="40" /></a>
 </p>
 
@@ -36,7 +36,7 @@
 <hr>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakchourasiya-aj&show_icons=true&locale=en&layout=compact" alt="deepakchourasiya-aj" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakchourasiya-aj&show_icons=true&locale=en&layout=compact" alt="deepakchourasiya-aj" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakchourasiya-aj&show_icons=true&locale=en" alt="deepakchourasiya-aj" /></p>
 
