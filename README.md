@@ -1,4 +1,3 @@
- ![Snake animation](https://github.com/deepakChourasiya-aj/deepakChourasiya-aj/blob/output/github-contribution-grid-snake.svg)
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://deepakchourasiya-aj.github.io/)
 
@@ -42,3 +41,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakchourasiya-aj&show_icons=true&locale=en" alt="deepakchourasiya-aj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakchourasiya-aj&" alt="deepakchourasiya-aj" /></p>
+ ![Snake animation](https://github.com/deepakChourasiya-aj/deepakChourasiya-aj/blob/output/github-contribution-grid-snake.svg)
+
