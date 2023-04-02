@@ -37,10 +37,10 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakchourasiya-aj&show_icons=true&locale=en&layout=compact" alt="deepakchourasiya-aj" /></p>
-
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakchourasiya-aj&show_icons=true&locale=en" alt="deepakchourasiya-aj" /></p>
-
+<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakchourasiya-aj&" alt="deepakchourasiya-aj" /></p>
-
+<br/>
  ![Snake animation](https://github.com/deepakChourasiya-aj/deepakChourasiya-aj/blob/output/github-contribution-grid-snake.svg)
 
