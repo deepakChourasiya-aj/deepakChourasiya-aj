@@ -24,8 +24,8 @@
 <a href="https://linkedin.com/in/deepak chourasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak chourasiya" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Tech Stack:</h3>
-<p align = "center">
+<h3 align="left">Tech Stack:</h3>
+<p align = "left">
 <img src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/HTML.png" alt="html" width="55" height="55"/>
 <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" width="50" height="55"/>
 <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="js" width="50" height="50"/>
@@ -42,10 +42,10 @@
 </p>
 <hr>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakchourasiya-aj&" alt="deepakchourasiya-aj" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakchourasiya-aj&show_icons=true&locale=en" alt="deepakchourasiya-aj" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakchourasiya-aj&&theme=merko" alt="deepakchourasiya-aj" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakchourasiya-aj&show_icons=true&locale=en&theme=merko" alt="deepakchourasiya-aj" /></p>
 <br/>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakchourasiya-aj&show_icons=true&locale=en&layout=compact" alt="deepakchourasiya-aj" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakchourasiya-aj&show_icons=true&locale=en&layout=compact&theme=merko" alt="deepakchourasiya-aj" /></p>
 <br/>
 
 
