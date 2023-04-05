@@ -8,6 +8,14 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakchourasiya-aj" alt="deepakchourasiya-aj" /></a> </p>
 
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 🖥 An Aspiring full-stack web developer with 1200 hours of
+practical coding experience, strongly passionate about
+new technologies. collaborative team player proficient in
+building efficient software solutions. looking for a
+challenging role in a growth-oriented organization.
+- 🎓 Learning Full-Stack web development at Masai school 
+
 - 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://deepakchourasiya-aj.github.io/](https://deepakchourasiya-aj.github.io/)
