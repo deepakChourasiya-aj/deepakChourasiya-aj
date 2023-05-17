@@ -1,5 +1,4 @@
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://deepakchourasiya-aj.github.io/)
 
 [![MasterHead](https://www.elegantthemes.com/blog/wp-content/uploads/2018/04/Best-Code-and-Text-Editors.png...)](https://www.elegantthemes.com/blog/wp-content/uploads/2018/04/Best-Code-and-Text-Editors.png)
 <h1 align="center">Hi 👋, I'm Deepak Chourasiya</h1>
@@ -18,7 +17,8 @@ challenging role in a growth-oriented organization.
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [https://deepakchourasiya-aj.github.io/](https://deepakchourasiya-aj.github.io/)
+<!-- - 👨‍💻 All of my projects are available at [https://deepakchourasiya-aj.github.io/](https://deepakchourasiya-aj.github.io/) -->
+- 👨‍💻 All of my projects are available at [My Portfolio](https://deepakchourasiya-aj.github.io/)
 
 - 💬 Ask me about **Node.js,Express.js,Mongo.DB**
 
