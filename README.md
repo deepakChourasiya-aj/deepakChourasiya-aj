@@ -26,7 +26,7 @@ challenging role in a growth-oriented organization.
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZvaB_-bSCtWWAGExGhZ51e9v1n0b9ixG/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://codepen.io/deepakchourasiya-aj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="deepakchourasiya-aj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/deepak chourasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak chourasiya" height="30" width="40" /></a>
