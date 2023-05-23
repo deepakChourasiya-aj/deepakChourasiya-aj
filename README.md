@@ -7,24 +7,29 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakchourasiya-aj" alt="deepakchourasiya-aj" /></a> </p>
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 An Aspiring full-stack web developer with 1200 hours of
+
+
+## 🚀 About Me
+
+🎓 - 🖥 An Aspiring full-stack web developer with 1200 hours of
 practical coding experience, strongly passionate about
 new technologies. collaborative team player proficient in
 building efficient software solutions. looking for a
 challenging role in a growth-oriented organization.
-- 🎓 Learning Full-Stack web development at Masai school 
 
-- 🌱 I’m currently learning **Node.js**
+ 📚 I love reading books on related to wealth and personal growth. My favorite book personal development and **Rich Dad Poor Dad** .
 
-<!-- - 👨‍💻 All of my projects are available at [https://deepakchourasiya-aj.github.io/](https://deepakchourasiya-aj.github.io/) -->
-- 👨‍💻 All of my projects are available at [My Portfolio](https://deepakchourasiya-aj.github.io/)
+ 🎓 Learning full-stack web development at Masai school 
 
-- 💬 Ask me about **Node.js,Express.js,Mongo.DB**
+ 🌱 I’m currently learning **Node.js**
 
-- 📫 How to reach me **deepak1812002@gmail.com**
+ 👨‍💻 All of my projects are available at [My Portfolio](https://deepakchourasiya-aj.github.io/)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZvaB_-bSCtWWAGExGhZ51e9v1n0b9ixG/view?usp=sharing)
+ 💬 Ask me about **Node.js,Express.js,Mongo.DB**
+
+ 📫 How to reach me **deepak1812002@gmail.com**
+
+ 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZvaB_-bSCtWWAGExGhZ51e9v1n0b9ixG/view?usp=sharing)
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
