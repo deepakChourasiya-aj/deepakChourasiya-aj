@@ -3,10 +3,8 @@
 [![MasterHead](https://www.elegantthemes.com/blog/wp-content/uploads/2018/04/Best-Code-and-Text-Editors.png...)](https://www.elegantthemes.com/blog/wp-content/uploads/2018/04/Best-Code-and-Text-Editors.png)
 <h1 align="center">Hi 👋, I'm Deepak Chourasiya</h1>
 <h3 align="center">A passionate fullStack developer from India</h3>
-<!-- <img align="right" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY5g-s7BVLfq4FLrHjo8e5AL1ABnn7wwK0PA&usqp=CAU" alt="code" > -->
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakchourasiya-aj" alt="deepakchourasiya-aj" /></a> </p>
-
 
 
 ## 🚀 About Me
@@ -31,10 +29,26 @@ challenging role in a growth-oriented organization.
 
  📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZvaB_-bSCtWWAGExGhZ51e9v1n0b9ixG/view?usp=sharing)
 
+
 ## 🏅 Achievements
 
 -   🏆 **Silver Medal in Taekwondo state championship**
 -   ⭐ **Hacker Rank 3 star Problem solving**
+
+## 🛠️ Skills
+
+### Languages
+
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+
+### Front-End Development
+
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 
 <h2 align="left">Connect with me:</h2>
