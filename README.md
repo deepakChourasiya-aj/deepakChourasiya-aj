@@ -71,8 +71,8 @@ challenging role in a growth-oriented organization.
 
 
 <p align="left">
-    <a href="https://linkedin.com/in/deepak chourasiya">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/deepak chourasiya" />
+    <a href="https://www.linkedin.com/in/deepak-chourasiya-aj/">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/deepak-chourasiya-aj/" />
     </a>
     <a title="deepak1812002@gmail.com" href="deepak1812002@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="deepak1812002@gmail.com" />
