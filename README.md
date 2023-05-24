@@ -67,13 +67,27 @@ challenging role in a growth-oriented organization.
 <br>
 
 <!-- // ### Backend as a Service (BaaS) -->
+<h2><i>Let's Connect</i></h2>
 
 
-<h2 align="left">Connect with me:</h2>
+<p align="left">
+    <a href="https://linkedin.com/in/deepak chourasiya">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/deepak chourasiya" />
+    </a>
+    <a title="deepak1812002@gmail.com" href="deepak1812002@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="deepak1812002@gmail.com" />
+    </a>
+    <a href="https://deepakchourasiya-aj.github.io/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://deepakchourasiya-aj.github.io/" />
+    </a>
+</p>
+<br>
+
+<!-- <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://codepen.io/deepakchourasiya-aj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="deepakchourasiya-aj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/deepak chourasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak chourasiya" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <h3 align="left">Tech Stack:</h3>
 <p align = "left">
