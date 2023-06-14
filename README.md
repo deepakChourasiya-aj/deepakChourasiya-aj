@@ -15,7 +15,7 @@ new technologies. collaborative team player proficient in
 building efficient software solutions. looking for a
 challenging role in a growth-oriented organization.
 
- 📚 I love reading books on related to wealth and personal growth. My favorite book personal development and **Rich Dad Poor Dad** .
+ 📚 I love reading books on related to wealth and personal growth. My favorite book personal development is **Rich Dad Poor Dad** .
 
  🎓 Learning full-stack web development at Masai school 
 
@@ -32,7 +32,7 @@ challenging role in a growth-oriented organization.
 
 ## 🏅 Achievements
 
--   🏆 **Silver Medal in Taekwondo state championship**
+-   🏆 **Silver Medal in state Taekwondo**
 -   ⭐ **Hacker Rank 3 star Problem solving**
 
 ## 🛠️ Skills
