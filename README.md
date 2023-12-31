@@ -27,7 +27,7 @@ challenging role in a growth-oriented organization.
 
  📫 How to reach me **deepak1812002@gmail.com**
 
- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZvaB_-bSCtWWAGExGhZ51e9v1n0b9ixG/view?usp=sharing)
+ 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Fhx9gXB0odAoXNZu1Lqop9-MvlInittQ/view?usp=sharing)
 
 
 ## 🏅 Achievements
