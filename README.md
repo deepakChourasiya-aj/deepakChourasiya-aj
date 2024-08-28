@@ -2,13 +2,9 @@
 
 ## Full Stack Developer 🚀 
 
->Hi there! My name is Deepak Chourasiya and I am a full stack developer with expertise  in both front-end and back-end development.
+>Hi there! My name is Deepak Chourasiya and I am a full stack developer with expertise  in both back-end and front-end development.
 
 ## 🛠 Skills 
-
-### Languages
-
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 
 
