@@ -67,8 +67,6 @@ Thank you for considering my profile. I am always looking for new opportunities 
 
 Feel free to connect with me on LinkedIn or send me an email at *deepak1812002@gmail.com*. I'm always open to discussing new opportunities and collaborations.
 
-![deepakChourasiya-aj](https://github-readme-activity-graph.cyclic.app/graph?username=hrithikvishwakarma001&bg_color=0a0c10&color=ffffff&line=B0C4DE&point=ADD8E6&area=true&hide_border=true)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=Waving&color=B0C4DE&height=120&section=footer"/>
 
 
