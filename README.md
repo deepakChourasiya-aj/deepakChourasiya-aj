@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=Waving&color=B0C4DE&height=120&section=header"/>
 
 ## Full Stack Developer 🚀 
