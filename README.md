@@ -66,6 +66,7 @@
 | 3 |  [RentoVento](https://rentovento-hrithikvishwakarma001.vercel.app/)| JavaScript, React and Chakra UI | `No`|  Solo| 5 |[Avis.com](https://www.avis.com/en/home)|
 | 4 |  [Clothingo](https://luxury-vacherin-56d222.netlify.app/)| HTML, CSS and JavaScript| `Yes` |Team Lead|   5 |[Mytheresa.com](https://www.mytheresa.com)|
 -->
+
 ## Socials
 
    >[LinkedIn](https://www.linkedin.com/in/deepak-aj/) </br>
