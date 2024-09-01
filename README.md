@@ -23,7 +23,7 @@
 
 <p>
     <img src="https://img.shields.io/badge/React.js-292929?style=for-the-badge&logo=react&logoColor=#20d9fe" alt="react" />
-    _<img src="https://img.shields.io/badge/Next.js-292929?style=for-the-badge&logo=nextdotjs&logoColor=#20d9fe" alt="next" />
+<!--     _<img src="https://img.shields.io/badge/Next.js-292929?style=for-the-badge&logo=nextdotjs&logoColor=#20d9fe" alt="next" /> -->
     _<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
     _<img src="https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript&logoColor=084E94" alt="typescript" />
      _<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
