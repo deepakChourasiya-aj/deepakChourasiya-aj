@@ -2,7 +2,7 @@
 
 ## Software Development Engineer(Full Stack) 🚀 
 
->Hi there! My name is Deepak Chourasiya and I am a full stack developer with expertise  in both back-end and front-end development.
+>Hi there! My name is Deepak Chourasiya and I am a software developer with expertise  in both back-end and front-end development.
 
 ## 🛠 Skills 
 
