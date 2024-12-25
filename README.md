@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=Waving&color=B0C4DE&height=120&section=header"/>
 
-## Full Stack Developer 🚀 
+## Software Development Engineer(Full Stack) 🚀 
 
 >Hi there! My name is Deepak Chourasiya and I am a full stack developer with expertise  in both back-end and front-end development.
 
