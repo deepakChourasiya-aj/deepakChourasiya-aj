@@ -5,7 +5,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0ABAB5&height=120&section=header"/>
 
 <h1 align="center">Hi there 👋, I'm Deepak Chourasiya</h1>
-<h3 align="center">Software Development Engineer | Full Stack Developer | 2+ Years Experience</h3>
+<h3 align="center">Software Development Engineer | 2+ YOE | Java, Spring Boot, Node.js | Microservices, Cloud, DSA</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0ABAB5&size=22&center=true&vCenter=true&width=750&lines=Passionate+about+building+scalable+software+solutions;Backend-heavy+Full+Stack+Developer;2%2B+years+hands-on+experience+in+Web+Development;Always+learning+%F0%9F%93%9A%F0%9F%92%BB%F0%9F%92%A1" />
@@ -15,7 +15,7 @@
 
 ## 💼 About Me
 
-- 🧑‍💻 Full-stack software developer with **2+ years of experience** in building scalable backend systems and intuitive front-end interfaces.
+- 🧑‍💻 Software developer with **2+ years of experience** in building scalable systems.
 - ⚙️ Strong background in **system design**, **microservices**, and **cloud-native development**.
 - 🔄 Passionate about **clean code**, **design patterns**, and **high-performance systems**.
 - 🌱 Currently expanding knowledge in **DevOps**, **distributed systems**, and **high availability architecture**.
@@ -64,14 +64,6 @@
 
 ---
 
-## 📌 Featured Projects
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| **Mykaa Clone** | React, Redux | Nykaa clone with cart, auth, and product features |
-| **RentoVento** | React, Chakra UI | Car rental platform inspired by Avis |
-| **Deco-Ninja** | TypeScript, React | E-commerce app modeled on DollarTree |
-| **Clothingo** | HTML, CSS, JS | Fashion store clone of Mytheresa |
-
 ➡️ [View All Projects](https://github.com/deepakchourasiya-aj?tab=repositories)
 
 ---
@@ -87,25 +79,14 @@
 
 ## 🤝 Connect With Me
 
-- 🔗 [Portfolio](https://deepakchourasiya-aj.github.io/)
+- 🔗 [Portfolio Website](https://deepakchourasiya-aj.github.io/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/deepak-aj/)
+- 🔍 [LeetCode](https://leetcode.com/u/deepak1812002/)
 - 📫 **Email:** deepak1812002@gmail.com
 
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0ABAB5&height=120&section=footer"/>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
