@@ -8,7 +8,7 @@
 <h3 align="center">Software Development Engineer | 2+ YOE | Java, Spring Boot, Node.js | Microservices, Cloud, DSA</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0ABAB5&size=22&center=true&vCenter=true&width=750&lines=Passionate+about+building+scalable+software+solutions;Backend-heavy+Full+Stack+Developer;2%2B+years+hands-on+experience+in+Web+Development;Always+learning+%F0%9F%93%9A%F0%9F%92%BB%F0%9F%92%A1" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0ABAB5&size=22&center=true&vCenter=true&width=750&lines=Passionate+about+building+scalable+software+solutions;Backend+Developer;2%2B+years+hands-on+experience+in+Web+Development;Always+learning+%F0%9F%93%9A%F0%9F%92%BB%F0%9F%92%A1" />
 </p>
 
 ---
