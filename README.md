@@ -1,73 +1,104 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=Waving&color=B0C4DE&height=120&section=header"/>
-
-## Software Development Engineer(Full Stack) 🚀 
-
->Hi there! My name is Deepak Chourasiya and I am a software developer with expertise  in both back-end and front-end development.
-
-## 🛠 Skills 
 
 
 
-### Back-End Development
 
-<p>
-   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-   _<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-   _<img src="https://img.shields.io/badge/Nest.js-E20C1D?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestjs" />
-   _<img src="https://img.shields.io/badge/Socket.Io-099B58?style=for-the-badge&logo=socketdotio&logoColor=white" alt="nestjs" />
-   _<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0ABAB5&height=120&section=header"/>
+
+<h1 align="center">Hi there 👋, I'm Deepak Chourasiya</h1>
+<h3 align="center">Software Development Engineer | Full Stack Developer | 2+ Years Experience</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0ABAB5&size=22&center=true&vCenter=true&width=750&lines=Passionate+about+building+scalable+software+solutions;Backend-heavy+Full+Stack+Developer;2%2B+years+hands-on+experience+in+Web+Development;Always+learning+%F0%9F%93%9A%F0%9F%92%BB%F0%9F%92%A1" />
 </p>
-<br>
 
-### Front-End Development
+---
 
-<p>
-    <img src="https://img.shields.io/badge/React.js-292929?style=for-the-badge&logo=react&logoColor=#20d9fe" alt="react" />
-<!--     _<img src="https://img.shields.io/badge/Next.js-292929?style=for-the-badge&logo=nextdotjs&logoColor=#20d9fe" alt="next" /> -->
-    _<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-    _<img src="https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript&logoColor=084E94" alt="typescript" />
-     _<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-    _<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+## 💼 About Me
+
+- 🧑‍💻 Full-stack software developer with **2+ years of experience** in building scalable backend systems and intuitive front-end interfaces.
+- ⚙️ Strong background in **system design**, **microservices**, and **cloud-native development**.
+- 🔄 Passionate about **clean code**, **design patterns**, and **high-performance systems**.
+- 🌱 Currently expanding knowledge in **DevOps**, **distributed systems**, and **high availability architecture**.
+
+---
+
+## 🚀 Tech Stack & Tools
+
+### 🧠 Languages
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔧 Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### 🗄 Databases & Caching
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+### 🛠 Tools & CI/CD
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| **Mykaa Clone** | React, Redux | Nykaa clone with cart, auth, and product features |
+| **RentoVento** | React, Chakra UI | Car rental platform inspired by Avis |
+| **Deco-Ninja** | TypeScript, React | E-commerce app modeled on DollarTree |
+| **Clothingo** | HTML, CSS, JS | Fashion store clone of Mytheresa |
+
+➡️ [View All Projects](https://github.com/deepakchourasiya-aj?tab=repositories)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepakchourasiya-aj&show_icons=true&theme=github_dark&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakchourasiya-aj&theme=github-dark" height="180"/>
 </p>
-<br>
 
-<h3 align="left">Tech Tools:</h3>
-<p align = "left">
- <img src="https://raw.githubusercontent.com/PrinceCorwin/Useful-tech-icons/main/images/mongodb-leaf.png" alt="mongo" width="50" height="50"/> 
-<img src="https://raw.githubusercontent.com/PrinceCorwin/Useful-tech-icons/main/images/mysql-logo.png" alt="mysql" width="50" height="50"/>
-<img src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="redis" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/AWS-Dark.svg" alt="aws" width="50" height="50"/>
-<img src="https://avatars.githubusercontent.com/u/11618900?v=4" alt="aws" width="50" height="50"/>
-<img src="https://avatars.githubusercontent.com/u/13629408?s=48&v=4" alt="aws" width="50" height="50"/>
-<img src="https://avatars.githubusercontent.com/u/28507035?s=48&v=4" alt="aws" width="50" height="50"/>
-<img src="https://github.com/nginxinc.png?size=40" alt="aws" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png?size=48" alt="aws" width="50" height="50"/>
-<img src="https://github.com/reduxjs.png?size=40" alt="aws" width="50" height="50"/>
-</p>
-<hr>
-<!--
-## Projects 
-|S.No| Project | Tech-Stacks |  Collaborative | Role| Span (Days) |Clone of|
-|:--:| :----------------------------: | :----------------------------------------------:|:--------:|:---------:|:-----:|:----------------:|
-| 1 |  [Mykaa](https://mykaa.vercel.app/)| React, Redux and JavaScript | `Yes` |   Team member | 5  |[nykaa.com](https://www.nykaa.com/)|   
-| 2 |  [Deco-ninja](https://deco-ninja.vercel.app/)| TypeScript, JavaScript and React | `No` |   Solo | 5  |[dollartree.com](https://www.dollartree.com/)|   
-| 3 |  [RentoVento](https://rentovento-hrithikvishwakarma001.vercel.app/)| JavaScript, React and Chakra UI | `No`|  Solo| 5 |[Avis.com](https://www.avis.com/en/home)|
-| 4 |  [Clothingo](https://luxury-vacherin-56d222.netlify.app/)| HTML, CSS and JavaScript| `Yes` |Team Lead|   5 |[Mytheresa.com](https://www.mytheresa.com)|
--->
+---
 
-## Socials
+## 🤝 Connect With Me
 
-   >[LinkedIn](https://www.linkedin.com/in/deepak-aj/) </br>
-   >[Portfolio](https://deepakchourasiya-aj.github.io/)
-   
- </br>
+- 🔗 [Portfolio](https://deepakchourasiya-aj.github.io/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/deepak-aj/)
+- 📫 **Email:** deepak1812002@gmail.com
 
-Thank you for considering my profile. I am always looking for new opportunities to grow and learn as a developer. Please don't hesitate to reach out to me if you have any questions or
- if you think I might be a good fit for your project. 🤝
+---
 
-Feel free to connect with me on LinkedIn or send me an email at *deepak1812002@gmail.com*. I'm always open to discussing new opportunities and collaborations.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0ABAB5&height=120&section=footer"/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=Waving&color=B0C4DE&height=120&section=footer"/>
+
+
+
+
 
 
 
