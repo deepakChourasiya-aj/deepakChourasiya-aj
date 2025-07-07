@@ -1,8 +1,8 @@
 
 
 
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0ABAB5&height=120&section=header"/>
+  
+<!--  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0ABAB5&height=120&section=header"/> -->
 
 <h1 align="center">Hi there 👋, I'm Deepak Chourasiya</h1>
 <h3 align="center">Software Development Engineer | 2+ YOE | Java, Spring Boot, Node.js | Microservices, Cloud, DSA</h3>
@@ -68,13 +68,14 @@
 
 ---
 
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deepakchourasiya-aj&show_icons=true&theme=github_dark&count_private=true" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakchourasiya-aj&theme=github-dark" height="180"/>
 </p>
-
+-->
 ---
 
 ## 🤝 Connect With Me
