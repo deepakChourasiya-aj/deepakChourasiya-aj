@@ -7,18 +7,12 @@
 <h1 align="center">Hi there 👋, I'm Deepak Chourasiya</h1>
 <h3 align="center">Software Development Engineer | 2+ YOE | Java, Spring Boot, Node.js | Microservices, Cloud, DSA</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0ABAB5&size=22&center=true&vCenter=true&width=750&lines=Passionate+about+building+scalable+software+solutions;Backend+Developer;2%2B+years+hands-on+experience+in+Web+Development;Always+learning+%F0%9F%93%9A%F0%9F%92%BB%F0%9F%92%A1" />
-</p>
-
 ---
 
 ## 💼 About Me
 
 - 🧑‍💻 Software developer with **2+ years of experience** in building scalable systems.
 - ⚙️ Strong background in **system design**, **microservices**, and **cloud-native development**.
-- 🔄 Passionate about **clean code**, **design patterns**, and **high-performance systems**.
-- 🌱 Currently expanding knowledge in **DevOps**, **distributed systems**, and **high availability architecture**.
 
 ---
 
