@@ -56,16 +56,6 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/deepak-aj/)
 - 📫 **Email:** deepak1812002@gmail.com
 
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0ABAB5&height=120&section=footer"/>
-
-
-
-
-
-
-
 
 <!-- 
 
