@@ -16,8 +16,6 @@
 
 ---
 
-## 🚀 Tech Stack & Tools
-
 ### 🧠 Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -39,8 +37,6 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
----
-
 <!--
 ## 📊 GitHub Stats
 
@@ -54,7 +50,7 @@
 ## 🤝 Connect With Me
 - 🔗 [Portfolio Website](https://deepakchourasiya-aj.github.io/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/deepak-aj/)
-- 📫 **Email:** deepak1812002@gmail.com
+- 📫 **Email: deepak1812002@gmail.com**
 
 
 <!-- 
