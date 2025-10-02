@@ -50,7 +50,7 @@
 ## 🤝 Connect With Me
 - 🔗 [Portfolio Website](https://deepakchourasiya-aj.github.io/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/deepak-aj/)
-- 📫 **Email: deepak1812002@gmail.com**
+- 📫 **Email: deepchmail@gmail.com**
 
 
 <!-- 
