@@ -5,7 +5,7 @@
 <!--  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0ABAB5&height=120&section=header"/> -->
 
 <h1 align="center">Hi there 👋, I'm Deepak Chourasiya</h1>
-<h3 align="center">Software Development Engineer | 2+ YOE | Java, Spring Boot, Javascript, Node.js | Microservices, Cloud, DSA</h3>
+<h3 align="center">Software Development Engineer | Backend | FullStack Developer | 2+ YOE | Java, Spring Boot, Javascript, Node.js | Microservices, Cloud, DSA</h3>
 
 ---
 
